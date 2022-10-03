@@ -1,0 +1,39 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Admin\AppData\Local\JetBrains\Rider2022.2\resharper-host\temp\Rider\vAny\CoverageData\_Class4.-1007570296\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3dc7e988_002D470a_002D440f_002D8d2c_002Ddc2c0d547ac6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoadRangesTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=423523b3_002D5e12_002D4fb2_002Da358_002D0ef4555d8381/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IPv4AddrTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.IPv4AddrTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.ParseArgsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadQueryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesEmptyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d639f12_002D11a8_002D4181_002D97f1_002De0385cd48660/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoadRangesTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=703aa788_002D70f4_002D4ad2_002Db23d_002Db16cd48eab17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IPv4AddrTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.IPv4AddrTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.CompareIPv4AddrTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.ParseArgsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8190d8e5_002D1010_002D49b0_002D9064_002D2b8c61d8f419/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LoadRangesTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesEmptyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadFindRangeTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb23c56a_002D35d5_002D43c0_002Dbae6_002D62090faca696/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoadRangesTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49D55C1E-8A56-4C37-8395-380CA7F7950A::net6.0::Task1.Tests.LoadRangesTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
